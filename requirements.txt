@@ -5,7 +5,6 @@ sentence_transformers
 streamlit_chat
 streamlit
 faiss-cpu
-tiktoken
 ctransformers
 huggingface-hub
 pypdf
