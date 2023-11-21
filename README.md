@@ -54,6 +54,8 @@ To use this project locally:
     - Upload PDFs and wait for a few moments for document processing.
     - The QnA section will become available once the PDFs have been processed.
 
+**NOTE**: Please assign your replicate token key in the .env file, you can get your key from [Replicate](https://replicate.com/) for free.
+
 ### Contributing
 Contributions are welcome! Please create a pull request with proposed changes.
 
