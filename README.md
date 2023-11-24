@@ -20,8 +20,8 @@ To use this project locally:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/YourUsername/YourRepo.git
-    cd YourRepo
+    git clone https://github.com/HemantModi11/ChatwithDocs.git
+    cd ChatwithDocs
     ```
 
 2. **Create a virtual environment:**
